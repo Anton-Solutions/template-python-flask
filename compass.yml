@@ -1,0 +1,25 @@
+name: template-python-flask
+id: ari:cloud:compass:aa212cad-70db-48f8-a31d-a3ccd478eb8d:component/ef4a3c7e-1f62-4a0e-974e-0a0c55ef7ca4/c0cebd17-1dcf-433c-89f3-8a1daccf8f66
+description: Template repository for python apps.
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/Anton-Solutions/template-python-flask
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields:
+  - name: Data encrypted at rest
+    type: text
+    value: null
+  - name: Data encrypted in transit
+    type: text
+    value: null
+  - name: Last security review
+    type: text
+    value: null
